@@ -1,0 +1,17 @@
+[
+  {
+    "id": "1111111111111111111",
+    "name": "First Pro",
+    "description": "First professional year of engineering"
+  },
+  {
+    "id": "2222222222222222222",
+    "name": "Second Pro",
+    "description": "Second professional year of engineering"
+  },
+  {
+    "id": "3333333333333333333",
+    "name": "Third Pro",
+    "description": "Third professional year of engineering"
+  }
+]
