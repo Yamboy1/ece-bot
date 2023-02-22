@@ -18,4 +18,4 @@ ENV DISCORD_CLIENT_ID=
 ENV DISCORD_TOKEN=
 
 # Start the bot
-CMD ["npm", "start"]
+CMD ["node", "."]
