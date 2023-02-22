@@ -10,9 +10,9 @@ ECE-Bot is a Discord bot designed to allow users to pick roles.
    git clone https://github.com/Yamboy1/ECE-Bot.git
    ```
 
-2. Rename `.example.env` to `.env` file in the root directory of the project and update the values:
+2. Rename `.example.env` to `.env` file in the root directory of the project and update the values.
 
-3. Rename `roles.example.json` to `roles.json` file in the root directory of the project and add in your own values:
+3. Rename `roles.example.json` to `roles.json` file in the root directory of the project and add in your own values.
 
 4. Build the Docker image:
 
